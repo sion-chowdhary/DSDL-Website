@@ -8,11 +8,15 @@ function Teams() {
         <div className="inner-team-section">
           <center>
             <div className="team-section-heading">
-              {/* <h4 className="text">Our Team</h4> */}
               <h1 className="text">Meet our team</h1>
             </div>
           </center>
-          <div className="team-card-container">
+          <center>
+            <div>
+              <h1 className="text">BATCH OF 2021 - 2025</h1>
+            </div>
+          </center>
+          <div className="team-card-container">  
             <TeamCard
               imgUrl="AG.png"
               alt="anbhav-yadav"
@@ -104,6 +108,13 @@ function Teams() {
               instagram_url="https://instagram.com/shashwat_singh_4?igshid=OGQ5ZDc2ODk2ZA=="
               github_url=""
             />
+            </div>
+            <center>
+            <div>
+              <h1 className="text">BATCH OF 2021 - 2024</h1>
+            </div>
+          </center>
+          <div className="team-card-container">  
               <TeamCard
               imgUrl="anubhav-yadav.JPG"
               alt="anbhav-yadav"
@@ -158,6 +169,13 @@ function Teams() {
               instagram_url="https://instagram.com/03_rishu"
               github_url="https://github.com/rishabh149"
             />
+            </div>
+            <center>
+            <div>
+              <h1 className="text">BATCH OF 2021 - 2023</h1>
+            </div>
+          </center>
+          <div className="team-card-container"> 
             <TeamCard
               imgUrl="AR.jpg"
               alt="Abhi Rathi"
