@@ -32,7 +32,7 @@ const Achievements = () => {
         </div>
         <div className="blog-content">
           <div id="blog-main-heading">
-            <div>TechnoHacks 3.0</div>
+            <div>TechnHacks 3.0</div>
           </div>
           <div className="blog-2">
           <spam>Kanisk Jaiswal</spam>, a key member of the DSDL Club, achieved the 1st Runner-Up position at Techacks 3.0, Chitkara University. Collaborating with the talented team of Piyush Sharma, Khushi Sachdev, and Sampada, they showcased exceptional skills and innovation. Congratulations to the DSDL Club for yet another remarkable triumph in the dynamic world of technology.
@@ -45,7 +45,7 @@ const Achievements = () => {
         </div>
         <div className="blog-content">
           <div id="blog-main-heading">
-            <div>NASA Space Apps</div>
+            <div>Ideathon ISABVP</div>
           </div>
           <div className="blog-2">
           <spam>Kanisk Jaiswal</spam>, a standout member of the DSDL Club, led the team to become the global nominee and secure an impressive 3rd position in the Greater Noida region. Collaborating with the talented team of Shivansh Pandey, Garima Shukla , Manas  their innovative prowess shone brightly.
