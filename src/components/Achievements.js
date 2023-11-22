@@ -45,7 +45,7 @@ const Achievements = () => {
         </div>
         <div className="blog-content">
           <div id="blog-main-heading">
-            <div>Ideathon ISABVP</div>
+            <div>NASA Space Apps</div>
           </div>
           <div className="blog-2">
           <spam>Kanisk Jaiswal</spam>, a standout member of the DSDL Club, led the team to become the global nominee and secure an impressive 3rd position in the Greater Noida region. Collaborating with the talented team of Shivansh Pandey, Garima Shukla , Manas  their innovative prowess shone brightly.
@@ -58,7 +58,7 @@ const Achievements = () => {
         </div>
         <div className="blog-content">
           <div id="blog-main-heading">
-            <div>NASA Space Apps</div>
+            <div>Ideathon ISABVP</div>
           </div>
           <div className="blog-2">
           <spam>Anuj Gupta, Manisha Maurya</spam> a standout members of the DSDL Club, led the team to secure the 3rd position in the ideathon organized by ISABVP. Alongside the talented team of  Akshat Srivastava and Ira Nafees for their innovative  performance
