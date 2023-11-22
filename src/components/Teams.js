@@ -13,7 +13,7 @@ function Teams() {
           </center>
           <center>
             <div>
-              <h1 className="text">BATCH OF 2021 - 2025</h1>
+              <h1 className="text">BATCH OF 2025</h1>
             </div>
           </center>
           <div className="team-card-container">  
@@ -111,7 +111,7 @@ function Teams() {
             </div>
             <center>
             <div>
-              <h1 className="text">BATCH OF 2021 - 2024</h1>
+              <h1 className="text">BATCH OF 2024</h1>
             </div>
           </center>
           <div className="team-card-container">  
@@ -172,7 +172,7 @@ function Teams() {
             </div>
             <center>
             <div>
-              <h1 className="text">BATCH OF 2021 - 2023</h1>
+              <h1 className="text">BATCH OF 2023</h1>
             </div>
           </center>
           <div className="team-card-container"> 

@@ -31,11 +31,14 @@ function Navbar() {
           {/* <li>
             <NavLink to="/events">Events</NavLink>
           </li> */}
-          <li>
+          {/* <li>
             <NavLink to="/bootcamp">BootCamp</NavLink>
-          </li> 
+          </li>  */}
           <li>
-            <NavLink to="/whatwedo">Project</NavLink>
+            <NavLink to="/whatwedo">What We Do</NavLink>
+          </li>
+          <li>
+            <NavLink to="/achievements">Achievements</NavLink>
           </li>
           <li>
             <NavLink to="/team">Team</NavLink>
@@ -77,7 +80,7 @@ function Navbar() {
               About
             </NavLink>
           </li>
-          <li>
+          {/* <li>
             <NavLink
               to="/bootcamp"
               className="links_"
@@ -85,7 +88,7 @@ function Navbar() {
             >
               BootCamp
             </NavLink>
-          </li>
+          </li> */}
           {/* <li>
             <NavLink
               to="/events"
@@ -101,7 +104,16 @@ function Navbar() {
               className="links_"
               onClick={() => setNav(false)}
             >
-              Project
+              What We Do
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/achievements"
+              className="links_"
+              onClick={() => setNav(false)}
+            >
+              Achievements
             </NavLink>
           </li>
           <li>

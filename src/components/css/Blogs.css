@@ -102,7 +102,7 @@
 @media screen and (max-width: 500px) {
     .blog-2{
         font-size: 1rem;
-        text-align: justify;
+        text-align: start;
         text-justify: inter-word;
     }
 } 

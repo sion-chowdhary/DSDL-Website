@@ -83,7 +83,7 @@ font-weight: 600;
     .text-about{
         text-align: center;
         font-size: smaller;
-        text-align: justify;
+        text-align: start;
   text-justify: inter-word;
     }
    }

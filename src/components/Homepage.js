@@ -40,9 +40,6 @@ export default function Homepage() {
                 </div>
               </center>
               <div className="hero-section-btn">
-               <a href="https://forms.gle/u7cDRfBMV1MqsFNJ9" target="_blank" rel="noreferrer">
-                <button>Become a Member</button>
-               </a>  
                <a href="https://dsdl-lab.netlify.app/" target="_blank" rel="noreferrer">
                 <button>DSDL Lab</button>
                </a>  
