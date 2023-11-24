@@ -7,7 +7,6 @@ function Navbar() {
     menu.onclick = () => {
       menu.classList.toggle("fa-xmark");
       handleNav();
-      console.log("yash varshney");
     };
   });
   const [nav, setNav] = useState(false);
@@ -55,7 +54,7 @@ function Navbar() {
             class={nav ? "fa-solid fa-xmark yash" : "fa-solid fa-bars yash"}
             id="menu"
             onclick={handleNav}
-          ></i>
+            ></i>
         </div>
       </div>
       <div className={nav ? "pure" : "unpure"}>
