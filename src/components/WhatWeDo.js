@@ -106,7 +106,7 @@ const WhatWeDo = () => {
           <div className="prj-2">
           Our Multiple Disease Prediction System is an innovative and user-friendly application designed to predict three prevalent health conditions: diabetes, heart disease, and Parkinson's. Deployed on the Streamlit platform, this system leverages advanced machine learning algorithms to analyze user-inputted data and provide insightful predictions regarding the likelihood of these diseases.
           </div>
-          <p className='prj-2'>Made By - Kanisl Jaiswal(Batch of 2025)</p>
+          <p className='prj-2'>Made By - Kanisk Jaiswal(Batch of 2025)</p>
           <div>
             <NavLink to="https://t7grl3uld.streamlit.app/">
               <div className="prj-button">Explore</div>

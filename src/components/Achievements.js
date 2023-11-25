@@ -36,7 +36,7 @@ const Achievements = () => {
             <div>TechHacks 3.0</div>
           </div>
           <div className="prj-2">
-          <spam>Kanisk Jaiswal</spam>, a key member of the DSDL Club, achieved the 1st Runner-Up position at Techacks 3.0, Chitkara University. Collaborating with the talented team of Piyush Sharma, Khushi Sachdev, and Sampada, they showcased exceptional skills and innovation. Congratulations to the DSDL Club for yet another remarkable triumph in the dynamic world of technology.
+          Kanisk Jaiswal, a key member of the DSDL Club, achieved the 1st Runner-Up position with cash prize of 10k at Techacks 3.0, Chitkara University held on 5-6 January 2023. Collaborating with the talented team of Piyush Sharma, Khushi Sachdev, and Sampada, they showcased exceptional skills and innovation. Congratulations to the DSDL Club for yet another remarkable triumph in the dynamic world of technology.
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@ const Achievements = () => {
             <div>NASA Space Apps</div>
           </div>
           <div className="prj-2">
-          <spam>Kanisk Jaiswal</spam>, a standout member of the DSDL Club, led the team to become the global nominee and secure an impressive 3rd position in the Greater Noida region. Collaborating with the talented team of Shivansh Pandey, Garima Shukla , Manas  their innovative prowess shone brightly.
+          Kanisk Jaiswal, a standout member of the DSDL Club, led the team to become the global nominee and secure an impressive 3rd position in the Greater Noida region with cash prize of 5K held on 2nd-3rd October 2022 . Collaborating with the talented team of Shivansh Pandey, Garima Shukla , Manas and their innovative prowess shone brightly.
           </div>
         </div>
       </div>
