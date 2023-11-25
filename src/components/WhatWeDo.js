@@ -18,6 +18,12 @@ const WhatWeDo = () => {
        <center>
          <div className='text-prj'> Projects </div>
        </center>
+       <br></br>
+       <br></br>
+       <br></br>
+       <center>
+         <div className='text-prj'> Projects Completed </div>
+       </center>
        <div className="inner-prj">
         <div className="blog-prj">
           <img src={femate} alt="femate" className="image" />
@@ -76,6 +82,9 @@ const WhatWeDo = () => {
           </div>
         </div>
       </div>
+      <center>
+         <div className='text-prj'> Ongoing Projects </div>
+       </center>
        <div className="inner-prj">
         <div className="blog-prj">
           <img src={yoga} alt="openai" className="image" />
@@ -134,6 +143,8 @@ const WhatWeDo = () => {
 
           Stay tuned for more exciting updates and resources as we continue to support your growth in the field of machine learning. Keep pushing the boundaries and exploring new horizons! 
           </div>
+          <p className='prj-2'>Instructors - Abhi Rathi and Abhishek Namdeo(Batch of 2023)</p>
+          <p className='prj-2'>Attended By - 200+ Students</p>
         </div>
       </div>
       <div className="inner-blog">
@@ -146,7 +157,7 @@ const WhatWeDo = () => {
           </div>
           <div className="blog-2">
           DSDL organized a power-packed 5-day journey from Nov 3 to Nov 8, delving into the heart of Linux.
-          With the expertise of our incredible instructor, Amandeep singh (CSE/3rd year). Special thanks to our mentor, Mr. Gaurav Ji Srivastava, for guiding student through his immersive experience! 
+          With the expertise of our incredible instructor, Amandeep singh (Batch of 2025) attended by 60+ Students. Special thanks to our mentor, Mr. Gaurav Ji Srivastava, for guiding student through his immersive experience! 
           </div>
         </div>
       </div>
@@ -161,6 +172,11 @@ const WhatWeDo = () => {
           <div className="blog-2">
           DSDL organized a Django BootCamp focused on mastering Django, a high-level Python web framework. Participants learn to build robust web applications, covering essential concepts like models, views, templates, and forms. The BootCamp also delves into database integration, authentication, and deployment. Practical exercises enhance hands-on skills, preparing attendees for real-world web development challenges.
           </div>
+          <p className='prj-2'>Instructor - Risabh Jaiswal(Batch of 2024)</p>
+          <p className='prj-2'>Attended By - 50+ Students</p>
+        </div>
+        <div>
+        <p id="blog-main-headings">Many More BootCamps Completed.</p>
         </div>
       </div>
     </div>

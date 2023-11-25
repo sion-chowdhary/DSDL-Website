@@ -71,13 +71,28 @@ const Achievements = () => {
       <center>
         <div className="text-blog"> Publications </div>
       </center>
-    <div className="inner-blog">
+      <div className="inner-blog">
         <div className="blog-content">
           <div id="blog-main-heading">
             <div>A Novel Model for Stress Detection and Management using Machine Learning</div>
           </div>
           <div className="blog-2">
           Explore a pioneering stress detection and management model by <spam>Aditi Agarwal, Astha Goel, Shristy Sharma, Soniya Jain, Mani Dwivedi, and Deep Kumar</spam>, published in IEEE Xplore, revolutionizing well-being through advanced machine learning techniques.
+          </div>
+          {/* <div>
+            <NavLink to="https://ieeexplore.ieee.org/document/10150768">
+              <div className="prj-button">Explore</div>
+            </NavLink>
+          </div> */}
+        </div>
+      </div>
+      <div className="inner-blog">
+        <div className="blog-content">
+          <div id="blog-main-heading">
+            <div>Modelling of threat evaluation for dynamic targets using Bayesian network approach.</div>
+          </div>
+          <div className="blog-2">
+          The threat evaluation for dynamic targets is modeled using a Bayesian network approach, leveraging probabilistic relationships to analyze and predict potential risks. This method combines dynamic target tracking with Bayesian inference, providing a sophisticated framework for real-time threat assessment in dynamic scenarios.
           </div>
           {/* <div>
             <NavLink to="https://ieeexplore.ieee.org/document/10150768">
