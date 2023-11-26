@@ -143,7 +143,7 @@ const WhatWeDo = () => {
 
           Stay tuned for more exciting updates and resources as we continue to support your growth in the field of machine learning. Keep pushing the boundaries and exploring new horizons! 
           </div>
-          <p className='prj-2'>Instructors - Abhi Rathi and Abhishek Namdeo(Batch of 2023)</p>
+          <p className='prj-2'>Instructors - Arvind Gautam and Kanisk Jaiswal(Batch of 2025)</p>
           <p className='prj-2'>Attended By - 200+ Students</p>
         </div>
       </div>
