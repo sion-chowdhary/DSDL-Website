@@ -52,8 +52,8 @@ function Navbar() {
           <a href="https://forms.gle/ivtedT4wBdnYNv2CA" target="_blank" rel="noreferrer">
           <button className="join-btn">Join Us</button>
           </a>
-          <i
-            class={nav ? "fa-solid fa-xmark yash" : "fa-solid fa-bars yash"}
+      <i
+            class={nav ? "fa-solid fa-xmark sion" : "fa-solid fa-bars yash"}
             id="menu"
             onclick={handleNav}
             ></i>

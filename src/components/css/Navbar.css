@@ -37,21 +37,28 @@
   .yash{
     visibility: hidden;
   }
+  .sion{
+    visibility: hidden;
+  }
   @media screen and (max-width: 510px) {
    .navlinks{
     display: none;
    }
-   
-   .yash{
+  .yash{
     visibility: visible;
     margin-left: 3rem;
    }
+  .sion{
+    visibility: visible;
+    position: fixed;
+    margin-left: 3rem;
+    margin-top: 3rem;
+  }
   }
 .pure{
     background-color: black;
     position: fixed;
     right: 0;
-    top: 100;
     width: 60%;
     height: 100%;
     border-right-width: 1px;
