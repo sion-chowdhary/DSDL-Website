@@ -89,10 +89,10 @@ const Achievements = () => {
       <div className="inner-blog">
         <div className="blog-content">
           <div id="blog-main-heading">
-            <div>Modelling of threat evaluation for dynamic targets using Bayesian network approach.</div>
+            <div>A comprehensive review on the advancement of high-dimensional neural networks in quaternionic domain with relevant applications.</div>
           </div>
           <div className="blog-2">
-          The threat evaluation for dynamic targets is modeled using a Bayesian network approach, leveraging probabilistic relationships to analyze and predict potential risks. This method combines dynamic target tracking with Bayesian inference, providing a sophisticated framework for real-time threat assessment in dynamic scenarios.
+          The neurocomputing communities have focused much interest on quaternionic-valued neural networks (QVNNs) due to the natural extension in quaternionic signals, learning of inter and spatial relationships between the features, and remarkable improvement against real-valued neural networks (RVNNs) and complex-valued neural networks (CVNNs). 
           </div>
           {/* <div>
             <NavLink to="https://ieeexplore.ieee.org/document/10150768">
