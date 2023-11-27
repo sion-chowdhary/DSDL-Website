@@ -18,7 +18,9 @@ function Navbar() {
     <>
       <div className="navbar">
         <div className="logo">
+          <NavLink to="/">
           <img src={require("../../src/assets/images/logo.png")} alt="logo" />
+          </NavLink>
         </div>
         <ul className="navlinks">
           <li>
