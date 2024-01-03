@@ -53,7 +53,7 @@ function Navbar() {
           <button className="join-btn">Join Us</button>
           </a>
       <i
-            class={nav ? "fa-solid fa-xmark sion" : "fa-solid fa-bars yash"}
+            class={nav ? "fa-solid fa-xmark yash" : "fa-solid fa-bars yash"}
             id="menu"
             onclick={handleNav}
             ></i>
