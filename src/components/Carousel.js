@@ -7,9 +7,12 @@ import "swiper/css/autoplay";
 import Card from "./Card";
 // import Carousel from "react-multi-carousel";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay } from "swiper";
+import { Autoplay, Navigation } from "swiper";
 import "./css/Carousel.css";
 const Carousel = () => {
+  const navigationPrevRef = React.useRef(null)
+  const navigationNextRef = React.useRef(null)
+
   return (
     <div>
       <div className="domain-section">
@@ -19,10 +22,25 @@ const Carousel = () => {
           </div>
           <div className="card-container">
             <Swiper
-              modules={[Autoplay]}
+              modules={[Autoplay,Navigation]}
               slidesPerView={1}
-              autoplay={true}
+              navigation
+              autoplay={{
+                delay: 1000,
+                disableOnInteraction: false
+            }}
               loop={true}
+            >
+            <Swiper
+            modules={[Navigation]}
+            navigation={{
+              prevEl: navigationPrevRef.current,
+              nextEl: navigationNextRef.current,
+            }}
+            onBeforeInit={(swiper) => {
+              swiper.navigation.nextEl = navigationNextRef.current;
+              swiper.navigation.prevEl = navigationPrevRef.current;
+            }}
             >
               <SwiperSlide
                 style={{
@@ -125,6 +143,7 @@ const Carousel = () => {
                   content="Graphic designing is the process of creating visual content, such as logos, brochures, and websites, using typography, images, and other design elements to communicate a message or idea."
                 />
               </SwiperSlide>
+            </Swiper>
             </Swiper>
           </div>
         </div>
